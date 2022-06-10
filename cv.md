@@ -21,6 +21,7 @@
 **Briefly About Myself**
 
 I’m working in the field of intellectual property. I've always been interested in something new, technical. And I’m interested in Web Development because this occupation provides endless possibilities for professional growth.
+
 I believe, that my ability to learn and to gain new skills will lead me through this path of becoming a proficient Frontend Developer.
 
 ---
@@ -35,12 +36,13 @@ I believe, that my ability to learn and to gain new skills will lead me through 
 
 ---
 
-**Code example:**
+**git commit -m 'feat: add Code example and refactor: formatting cv file':**
 
-    Задание:\
+> Задание:
+
     Запросите у пользователя число. Выведите все числа в обратном порядке от введенного пользователем значения до 1. Используйте для решения рекурсию.
 
-    '<script>
+    ```<script>
         let value = prompt("Введите число");
         printNumber(value);
 
@@ -56,7 +58,8 @@ I believe, that my ability to learn and to gain new skills will lead me through 
             }
 
         }
-    </script>'
+    </script>
+    ```
 
 ---
 
