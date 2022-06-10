@@ -1,6 +1,6 @@
 ## _rsschool-cv_
 
-## Nadya Molotova
+# Nadya Molotova
 
 ---
 
@@ -11,13 +11,17 @@
 ![photo](/img/Molotova.jpg "my photo")
 
 > **Contact information:**
+
 > Phone: +38 068 811-61-22
+
 > E-mail: nadya.molotova@gmail.com
+
 > Telegram: Molotova Nadya
 
 ---
 
 **Briefly About Myself**
+
 I’m working in the field of intellectual property. I've always been interested in something new, technical. And I’m interested in Web Development because this occupation provides endless possibilities for professional growth.
 I believe, that my ability to learn and to gain new skills will lead me through this path of becoming a proficient Frontend Developer.
 
