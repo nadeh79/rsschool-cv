@@ -36,13 +36,14 @@ I believe, that my ability to learn and to gain new skills will lead me through 
 
 ---
 
-**git commit -m 'feat: add Code example and refactor: formatting cv file':**
+**Code example:**
 
 > Задание:
 
     Запросите у пользователя число. Выведите все числа в обратном порядке от введенного пользователем значения до 1. Используйте для решения рекурсию.
 
-    ```<script>
+    ```
+    <script>
         let value = prompt("Введите число");
         printNumber(value);
 
