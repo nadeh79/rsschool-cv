@@ -8,14 +8,12 @@
 
 ---
 
-![photo](/img/Molotova.jpg "my photo")
+![my photo](./img/Molotova.jpg "my photo")
 
 > **Contact information:**
 
-> Phone: +38 068 811-61-22
-
-> E-mail: nadya.molotova@gmail.com
-
+> Phone: +38 068 811-61-22,\
+> E-mail: nadya.molotova@gmail.com,\
 > Telegram: Molotova Nadya
 
 ---
@@ -38,6 +36,27 @@ I believe, that my ability to learn and to gain new skills will lead me through 
 ---
 
 **Code example:**
+
+    Задание:\
+    Запросите у пользователя число. Выведите все числа в обратном порядке от введенного пользователем значения до 1. Используйте для решения рекурсию.
+
+    '<script>
+        let value = prompt("Введите число");
+        printNumber(value);
+
+        function printNumber(value) {
+
+            console.log(value);
+
+            if (value == 1)
+                return 1;
+            else {
+                value--;
+                printNumber(value);
+            }
+
+        }
+    </script>'
 
 ---
 
