@@ -8,7 +8,7 @@
 
 ---
 
-![my photo](./img/Molotova.jpg "my photo")
+![my photo](./assets/img/Molotova.jpg "my photo")
 
 > **Contact information:**
 
